@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Analysis
 
 ## Overview of Project
 Pyber is a ridesharing app built on Python, and we conducted an analysis to assist the company in exploring a variety of visualization methods. To accomplish this task, we utilized Python scripts with the aid of Pandas libraries, Jupyter Notebook, and Matplotlib - a data visualization platform and graphical plotting library that creates charts to display data relationships.
